@@ -1,0 +1,2 @@
+rootProject.name = "ViewPagerScrollView"
+include ':app'
